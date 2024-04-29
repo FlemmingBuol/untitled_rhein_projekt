@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#partikel {
+  position: absolute;
+  z-index: 1;
+}
+
+#vid {
+position: absolute;
+z-index: 0;
+}
+
+#img {
+  position: absolute;
+  z-index: 2;
+}
